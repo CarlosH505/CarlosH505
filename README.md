@@ -6,11 +6,11 @@
 - 🌱 Estudando Java
 
 <a href="https://github.com/CarlosH505/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosH505&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&locale=pt-br" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosH505&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&locale=pt-br" />
 </a>
   
 <a href="https://github.com/CarlosH505/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosH505&layout=compact&hide_progress=true&card_width=300&locale=pt-br" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosH505&layout=compact&hide_progress=true&card_width=300&locale=pt-br" />
 </a>
 
 
